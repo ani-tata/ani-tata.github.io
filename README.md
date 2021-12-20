@@ -1,5 +1,4 @@
-# ani-tata.github.io
-#CMSC320 Final Project by Anirudh Tatavarthi and Fahim Sajjad
+# CMSC320 Final Project by Anirudh Tatavarthi and Fahim Sajjad
 
 * The file named 'index.html' is the HTML export of our notebook.
 * The notebook was written using Google Colab.
